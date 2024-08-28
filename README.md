@@ -174,7 +174,15 @@ Milestones: Important milestones can be highlighted on the chart.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 Electronic health records or EHRs are used for storing patient information in a digital manner. It is used by hospitals and clinics to store the complete medical history of a patient
 These records will provide a secure and easily accessible way of storing medical records compared to paper-based records. Electronic records do not have the risk of loss of medical history or being illegible or destroyed over a long period of time. It also prevents duplication of medical records, since there is only one file that is modified over time.
-## 9. 
+## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem is crucial for developing an effective software solution because it provides a solid foundation for the entire development process.
+Here's why:
+-Targeted Solution: A well-defined problem ensures that the software solution addresses the specific needs of the users and avoids unnecessary features or functionalities.
+-Focused Development: A clear problem statement guides the development team towards a targeted solution, preventing them from getting sidetracked by irrelevant features.
+-Effective Prioritization: Understanding the problem helps prioritize features and functionalities based on their importance in solving the problem.
+-Measurable Success: A well-defined problem allows for the establishment of clear metrics to measure the success of the software solution.
+-User-Centric Design: By understanding the problem from the user's perspective, the development team can create a solution that truly meets their needs.
+-Reduced Scope Creep: A clear problem statement helps prevent scope creep, which can lead to delays, increased costs, and decreased quality.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 An EHR (Electronic Health Record) system is a digital version of a patient's medical chart. It stores and manages a patient's health information, including medical history, diagnoses, treatments, medications, and test results.
 The goal of an EHR system is to:
